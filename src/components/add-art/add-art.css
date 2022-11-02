@@ -1,0 +1,12 @@
+.add-art-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:20px;
+}
+.button-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
